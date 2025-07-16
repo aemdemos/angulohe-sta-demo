@@ -4,4 +4,4 @@ Fix #<gh-issue-id>
 
 Test URLs:
 - Before: https://main--angulohe-sta-demo--aemdemos.aem.live/
-- After: https://main--angulohe-sta-demo--aemdemos.aem.live/
+- After: https://<branch>--angulohe-sta-demo--aemdemos.aem.live/
